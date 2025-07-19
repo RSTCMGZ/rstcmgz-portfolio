@@ -23,7 +23,8 @@ export const About = () => {
           About Me
         </h2>
         <div className=" rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
-          <p className="text-gray-300 mb-6">YETENEKLERİNİ YAZ</p>
+          <p className="text-gray-300 mb-6">Full-Stack AI Developer | GPT-4, LangChain, RAG, API Automations
+I help companies turn their AI ideas into scalable, production-ready tools — not just chatbots, but intelligent systems that drive business value.</p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
